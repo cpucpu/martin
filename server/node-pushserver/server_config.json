@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://dbuser:0857@ds027719.mlab.com:27719/databasegcm",
+
+    "gcm": {
+        "apiKey": "AIzaSyCxPx4kybvFrfSE86rfRnG5KLLN_61ZEj0"
+    }
+}
